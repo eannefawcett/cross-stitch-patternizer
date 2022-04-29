@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - appnope=0.1.2
   - asttokens=2.0.5
   - backcall=0.2.0
   - ca-certificates=2021.10.8
@@ -22,10 +21,7 @@ dependencies:
   - lcms2=2.12
   - libblas=3.9.0
   - libcblas=3.9.0
-  - libcxx=12.0.0
   - libffi=3.3
-  - libgfortran=5.0.0
-  - libgfortran5=9.3.0
   - liblapack=3.9.0
   - libopenblas=0.3.20
   - libpng=1.6.37
@@ -35,7 +31,6 @@ dependencies:
   - llvm-openmp=13.0.1
   - lz4-c=1.9.3
   - matplotlib-inline=0.1.2
-  - ncurses=6.3
   - nest-asyncio=1.5.5
   - numpy=1.20.3
   - olefile=0.46
@@ -55,7 +50,6 @@ dependencies:
   - python_abi=3.9
   - pytz=2022.1
   - pyzmq=22.3.0
-  - readline=8.1.2
   - setuptools=61.2.0
   - six=1.16.0
   - sqlite=3.38.2
